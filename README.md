@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @zecheshirecat
 - 👀 I’m interested in digital painting / 2d illustration / 3d modeling
 - 🌱 I’m currently learning Next.js / React.js
+- 👍 Fun fact: I'm left handed
 - 📫 How to reach me > contact@graphique.io
