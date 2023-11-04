@@ -2,4 +2,4 @@
 - 👀 I’m interested in digital painting / 2d illustration / 3d modeling
 - 🌱 I’m currently learning Next.js / React.js
 - 👍 Fun facts: I'm left handed and a cat lover
-- 📫 How to reach me > contact@graphique.io
+- 📫 How to reach me > ca.leduc@me.com
